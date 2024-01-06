@@ -3,4 +3,4 @@
 A very simple React Notes app. Built it to learn and practice React.
 
 <h2>Demo</h2>
-![demo gif](demo.gif)
+<img src="/demo.gif" alt="Demo vid" />
